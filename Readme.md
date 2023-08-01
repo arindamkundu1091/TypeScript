@@ -1,0 +1,6 @@
+To install typescript globally...
+    npm install -g typescript
+
+To install typescript in project space...
+    npm install typescript --save-dev
+    
