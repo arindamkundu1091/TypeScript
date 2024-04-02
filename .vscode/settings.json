@@ -4,5 +4,8 @@
         
         "angular",
         "rails"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        
+    }
 }
